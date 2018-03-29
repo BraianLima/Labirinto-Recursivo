@@ -1,0 +1,10 @@
+Primeiro compile o projeto;
+Depois de compilado, há certos passos a fazer para rodar um labirinto...
+Passo 1: Clique em Arquivo > Abrir Labirinto
+Passo 2: Abra a pasta Arquivos
+Passo 3: Clique em qualquer um dos arquivos para abrir.
+O programa cálculará o caminho do labirinto, e depois mostrará na
+richtextbox o resultado no form.
+
+Caso queira saber como são os labirintos, tem um arquivo
+chamado lab.txt, esse arquivo é um exemplo de como é o labirinto
